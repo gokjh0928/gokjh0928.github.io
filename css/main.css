@@ -410,6 +410,20 @@ input[type="submit"]:focus {
   border-radius: 300px;
 }
 
+.logo-photo {
+    position: relative;
+    width: 180px;
+    margin: 0 auto 30px;
+    z-index: 1;
+}
+  
+.logo-photo img {
+    max-width: 100%;
+    background-color: #fff;
+    border: 3px solid #fff;
+    border-radius: 300px;
+  }
+
 .header-photo:after {
   position: absolute;
   opacity: 0.3;
