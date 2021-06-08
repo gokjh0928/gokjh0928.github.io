@@ -421,7 +421,6 @@ input[type="submit"]:focus {
     max-width: 100%;
     background-color: #fff;
     border: 3px solid #fff;
-    border-radius: 300px;
   }
 
 .header-photo:after {
