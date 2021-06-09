@@ -52,6 +52,10 @@ main.container {
     width: 50%;
 }
 
+.carousel-title {
+    color: white;
+}
+
 .logoname {
     text-align: center;
 }
