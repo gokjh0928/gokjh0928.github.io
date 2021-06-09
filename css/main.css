@@ -30,6 +30,7 @@ main.container {
     border-style: ridge;
     border-width: 5px;
     border-radius: 20px;
+    border-color: white;
     display: block;
     margin-left: auto;
     margin-right: auto;
