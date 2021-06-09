@@ -67,3 +67,12 @@ main.container {
 .commentbox {
     margin-top: 15%;
 }
+
+.row {
+    display: flexbox;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+}
