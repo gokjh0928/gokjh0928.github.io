@@ -80,4 +80,9 @@ main.container {
 .footer {
     display: inline-block;
     width: 100%;
+    padding-top: 40%;
+}
+
+.btn {
+    margin-top: 1px;
 }
